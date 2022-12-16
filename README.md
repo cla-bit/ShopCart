@@ -4,3 +4,4 @@ Users do not have to create an account to make a purchase.
 There is no payment gateway added to this project.
 Payment gateway will be added in the next ecommerce project.
 This project makes use of Django sessions.
+Users can also search for a product.
